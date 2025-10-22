@@ -1,0 +1,137 @@
+.body{
+    background-color: rgb(255, 104, 235);
+
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.nav{
+    display: flex;
+    border: 1px solid rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    justify-content: center;
+
+}
+  
+.main{
+    padding: 10px;
+}
+
+h1,h2{
+    justify-content: center;
+}
+
+.Tarjeta1{
+    border: 1px solid black;
+    text-align: center;
+    width: 450px;
+    height: 500px;
+    margin-right: 10%;
+    border-radius: 20%;
+    background-color: #ea00ff;
+}
+
+.Tarjeta2{
+    border: 1px solid black;
+    text-align: center;
+    width: 450px;
+    height: 500px;
+    margin-right: 10%;
+    border-radius: 20%;
+    background-color: #ea00ff;
+}
+
+.Tarjeta3{
+    border: 1px solid black;
+    text-align: center;
+    width: 450px;
+    height: 500px;
+    margin-right: 10%;
+    border-radius: 20%;
+    background-color: #ea00ff;
+
+}
+
+.Tarjeta4{
+    border: 1px solid black;
+    text-align: center;
+    width: 450px;
+    height: 500px;
+    margin-right: 10%;
+    border-radius: 20%;
+    background-color: #ea00ff;
+
+}
+.Contenedor{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 104, 235);
+    padding: 4%;
+}
+
+.Contenedor2{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 104, 235);
+    padding: 5%;
+}
+
+.Contenedor3 {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 104, 235);
+    padding: 5%;
+}
+
+.Tarjeta5{
+    border: 1px solid black;
+    text-align: center;
+    width: 450px;
+    height: 450px;
+    margin-right: 10%;
+    border-radius: 20%;
+    background-color: #ea00ff;
+    box-shadow: 0 0 80px 4px rgb(190, 0, 133);
+}
+
+.Tarjeta6{
+    border: 1px solid black;
+    text-align: center;
+    width: 450px;
+    height: 200px;
+    margin-right: 10%;
+    border-radius: 20%;
+    background-color: #ea00ff;
+    box-shadow: 0 0 80px 4px rgb(190, 0, 133);
+
+}
+
+.Tarjeta7{
+    border: 1px solid black;
+    text-align: center;
+    width: 450px;
+    height: 250px;
+    margin-right: 10%;
+    border-radius: 20%;
+    background-color: #ea00ff;
+    box-shadow: 0 0 80px 4px rgb(190, 0, 133);
+
+}
+
+
+.article{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(255, 0, 242);
+    padding: 10px;
+    margin-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    justify-content: center;
+}
