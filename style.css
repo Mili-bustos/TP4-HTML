@@ -92,26 +92,46 @@ h1,h2{
     border: 1px solid black;
     text-align: center;
     width: 450px;
-    height: 450px;
-    margin-right: 10%;
-    border-radius: 20%;
+    height: 250px;
+    margin-right: 5%;
+    border-radius: 15%;
     background-color: #ea00ff;
-    box-shadow: 0 0 80px 4px rgb(190, 0, 133);
 }
 
 .Tarjeta6{
     border: 1px solid black;
     text-align: center;
     width: 450px;
-    height: 200px;
-    margin-right: 10%;
-    border-radius: 20%;
+    height: 250px;
+    margin-right: 5%;
+    border-radius: 15%;
     background-color: #ea00ff;
-    box-shadow: 0 0 80px 4px rgb(190, 0, 133);
 
 }
 
 .Tarjeta7{
+    border: 1px solid black;
+    text-align: center;
+    width: 450px;
+    height: 250px;
+    margin-right: 5%;
+    border-radius: 15%;
+    background-color: #ea00ff;
+
+}
+
+.Tarjeta8{
+    border: 1px solid black;
+    text-align: center;
+    width: 450px;
+    height: 250px;
+    margin-right: 5%;
+    border-radius: 15%;
+    background-color: #ea00ff;
+
+}
+
+.Tarjeta9{
     border: 1px solid black;
     text-align: center;
     width: 450px;
@@ -134,4 +154,19 @@ h1,h2{
     padding-right: 10%;
     display: flex;
     justify-content: center;
+}
+
+.contenedor4 {
+    max-width: 500px;
+    margin: auto;
+    background-color: rgb(255, 117, 248);
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.form-control-plaintext {
+    background-color: #f5f5f5;
+    border: none;
+    color: #555;
 }
